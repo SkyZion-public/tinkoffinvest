@@ -181,7 +181,7 @@ modules.xml
 hs_err_pid*
 
 # target files
-target/*
+target/*q
 
 #reports
 reports/*
